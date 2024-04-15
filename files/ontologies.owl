@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:onto="http://example.org/ontology/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://example.org/ontology/company">
+    <rdf:type rdf:resource="http://example.org/ontology/ITCompany"/>
+    <rdfs:label>компания</rdfs:label>
+    <onto:hasExpert rdf:resource="http://example.org/ontology/Expert"/>
+    <onto:isMemberOf rdf:resource="http://example.org/ontology/Community"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/meeting1">
+    <rdf:type rdf:resource="http://example.org/ontology/Meeting"/>
+    <onto:takesPlaceIn rdf:resource="http://example.org/ontology/friendsCompany"/>
+    <onto:creates rdf:resource="http://example.org/ontology/celebration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/excellence">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>совершенство</rdfs:label>
+    <onto:isPartOf rdf:resource="http://example.org/ontology/community"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/Team">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/employee">
+    <onto:hasEmployee rdf:resource="http://example.org/ontology/company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/product">
+    <rdf:type rdf:resource="http://example.org/ontology/Product"/>
+    <onto:contributes rdf:resource="http://example.org/ontology/friendsCompany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/friendsCompany">
+    <rdf:type rdf:resource="http://example.org/ontology/FriendsCompany"/>
+    <rdfs:comment>компания</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/Product">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:comment>продукт</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/skill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>навык</rdfs:label>
+    <onto:isPartOf rdf:resource="http://example.org/ontology/employee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/Friendship">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:comment>дружба</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/isPartOfTeam">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/goal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>цель</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/includes">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/Meeting">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:comment>встреча</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/solution">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>решение</rdfs:label>
+    <onto:develops rdf:resource="http://example.org/ontology/innovation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/Community">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/Expert">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/strengthens">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/friendship">
+    <rdf:type rdf:resource="http://example.org/ontology/Friendship"/>
+    <onto:strengthens rdf:resource="http://example.org/ontology/friendsCompany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/innovation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>инновация</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/Celebration">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+    <rdfs:comment>праздник</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/team">
+    <onto:isPartOfTeam rdf:resource="http://example.org/ontology/company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasExpert">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/problem">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>проблема</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/isMemberOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/Employee">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/develops">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/creates">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/contributes">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/collaboration">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>сотрудничество</rdfs:label>
+    <onto:isPartOf rdf:resource="http://example.org/ontology/team"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/celebration">
+    <rdf:type rdf:resource="http://example.org/ontology/Celebration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/hasEmployee">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/productivity">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>продуктивность</rdfs:label>
+    <onto:isPartOf rdf:resource="http://example.org/ontology/company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/FriendsCompany">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/ITCompany">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology/takesPlaceIn">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+</rdf:RDF>
