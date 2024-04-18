@@ -102,4 +102,872 @@
     <ns1:definition>компьютерная программа, предназначенная для выполнения определенной задачи, отличной от той, которая связана с работой самого компьютера, обычно предназначенная для использования конечными пользователями</ns1:definition>
     <ns1:part_of_speech>N</ns1:part_of_speech>
   </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_111265-V-136490">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>111265-V-136490</ns1:id>
+    <ns1:name>ГРУППИРОВАТЬ</ns1:name>
+    <ns1:lemma>ГРУППИРОВАТЬ</ns1:lemma>
+    <ns1:synset_id>111265-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_111265-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>111265-V</ns1:id>
+    <ns1:title>ГРУППИРОВАТЬ, ОБЪЕДИНЯТЬ В ГРУППЫ</ns1:title>
+    <ns1:definition>объединять, соединять в группу (группы)</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_6577-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>6577-N</ns1:id>
+    <ns1:title>ЭКСПЕРТ</ns1:title>
+    <ns1:definition>высококлассный специалист в какой-либо предметной области</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_6577-N-114558">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>6577-N-114558</ns1:id>
+    <ns1:name>ЭКСПЕРТ</ns1:name>
+    <ns1:lemma>ЭКСПЕРТ</ns1:lemma>
+    <ns1:synset_id>6577-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106493-V-153565">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>106493-V-153565</ns1:id>
+    <ns1:name>СОЗДАВАТЬ</ns1:name>
+    <ns1:lemma>СОЗДАВАТЬ</ns1:lemma>
+    <ns1:synset_id>106493-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_106493-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106493-V</ns1:id>
+    <ns1:title>СОЗДАТЬ (СДЕЛАТЬ СУЩЕСТВУЮЩИМ)</ns1:title>
+    <ns1:definition>сотворение, произведение чего-либо</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_154085-A-202230">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>154085-A-202230</ns1:id>
+    <ns1:name>ИННОВАЦИОННЫЙ</ns1:name>
+    <ns1:lemma>ИННОВАЦИОННЫЙ</ns1:lemma>
+    <ns1:synset_id>154085-A</ns1:synset_id>
+  </rdf:Description>
+   <rdf:Description rdf:about="http://example.org#sense_107489-N-151793">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>107489-N-151793</ns1:id>
+    <ns1:name>РЕШЕНИЕ</ns1:name>
+    <ns1:lemma>РЕШЕНИЕ</ns1:lemma>
+    <ns1:synset_id>107489-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_107489-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>107489-N</ns1:id>
+    <ns1:title>РЕШИТЬ, ПРИНЯТЬ РЕШЕНИЕ</ns1:title>
+    <ns1:definition>обдумывать ситуацию, формулируя определённый вывод, делая заключение или вырабатывая план какого-то действия</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_138550-V-757784">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>138550-V-757784</ns1:id>
+    <ns1:name>РЕШИТЬ ЗАДАЧУ</ns1:name>
+    <ns1:lemma>РЕШИТЬ ЗАДАЧА</ns1:lemma>
+    <ns1:synset_id>138550-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_138550-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>138550-V</ns1:id>
+    <ns1:title>РЕШИТЬ, НАЙТИ РЕШЕНИЕ</ns1:title>
+    <ns1:definition>обдумав вопрос или исследовав проблему, найти нужный ответ</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_138550-N-151793">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>138550-N-151793</ns1:id>
+    <ns1:name>РЕШЕНИЕ</ns1:name>
+    <ns1:lemma>РЕШЕНИЕ</ns1:lemma>
+    <ns1:synset_id>138550-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_138550-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>138550-N</ns1:id>
+    <ns1:title>РЕШИТЬ, НАЙТИ РЕШЕНИЕ</ns1:title>
+    <ns1:definition>обдумав вопрос или исследовав проблему, найти нужный ответ</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://example.org#sense_129095-V-178036">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>129095-V-178036</ns1:id>
+    <ns1:name>СИНХРОНИЗИРОВАТЬ</ns1:name>
+    <ns1:lemma>СИНХРОНИЗИРОВАТЬ</ns1:lemma>
+    <ns1:synset_id>129095-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_129095-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>129095-V</ns1:id>
+    <ns1:title>СИНХРОНИЗАЦИЯ</ns1:title>
+    <ns1:definition>приведение к синхронизму двух или нескольких периодически изменяющихся явлений или процессов</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106620-N-156184">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>106620-N-156184</ns1:id>
+    <ns1:name>УСИЛИЕ</ns1:name>
+    <ns1:lemma>УСИЛИЕ</ns1:lemma>
+    <ns1:synset_id>106620-N</ns1:synset_id>
+  </rdf:Description>
+   <rdf:Description rdf:about="http://example.org#synset_106620-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106620-N</ns1:id>
+    <ns1:title>УСИЛИЕ</ns1:title>
+    <ns1:definition>напряжение физических или умственных сил</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_146553-N-140413">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>146553-N-140413</ns1:id>
+    <ns1:name>КОМАНДА</ns1:name>
+    <ns1:lemma>КОМАНДА</ns1:lemma>
+    <ns1:synset_id>146553-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_146553-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>146553-N</ns1:id>
+    <ns1:title>КОМАНДА (ОКРУЖЕНИЕ)</ns1:title>
+    <ns1:definition>всякая группа лиц, ватага, компания</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106701-N-743658">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>106701-N-743658</ns1:id>
+    <ns1:name>ДОСТИЖЕНИЕ ЦЕЛИ</ns1:name>
+    <ns1:lemma>ДОСТИЖЕНИЕ ЦЕЛЬ</ns1:lemma>
+    <ns1:synset_id>106701-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_106701-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106701-N</ns1:id>
+    <ns1:title>ДОСТИЧЬ, ДОБИТЬСЯ</ns1:title>
+    <ns1:definition>достичь поставленной цели или каких-либо результатов с помощью усилий и стараний</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+   <rdf:Description rdf:about="http://example.org#sense_145098-V-752504">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>145098-V-752504</ns1:id>
+    <ns1:name>ПОСТАВИТЬ ПЕРЕД СОБОЙ ЦЕЛЬ</ns1:name>
+    <ns1:lemma>ПОСТАВИТЬ ПЕРЕД СЕБЯ ЦЕЛЬ</ns1:lemma>
+    <ns1:synset_id>145098-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_145098-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>145098-V</ns1:id>
+    <ns1:title>СТАВИТЬ ПЕРЕД СОБОЙ ЦЕЛЬ</ns1:title>
+    <ns1:definition>заглянуть в будущее, сконцетрировать свое внимание и силы на то, что должно быть достигнуто.</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_128995-N-721552">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>128995-N-721552</ns1:id>
+    <ns1:name>ЦЕЛЬ ДЕЯТЕЛЬНОСТИ</ns1:name>
+    <ns1:lemma>ЦЕЛЬ ДЕЯТЕЛЬНОСТЬ</ns1:lemma>
+    <ns1:synset_id>128995-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_128995-A">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>128995-A</ns1:id>
+    <ns1:title>ЦЕЛЬ, ПРЕДМЕТ СТРЕМЛЕНИЯ</ns1:title>
+    <ns1:definition>то, к чему стремятся, чего хотят достичь.</ns1:definition>
+    <ns1:part_of_speech>Adj</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_2550-N-111795">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>2550-N-111795</ns1:id>
+    <ns1:name>СОТРУДНИК</ns1:name>
+    <ns1:lemma>СОТРУДНИК</ns1:lemma>
+    <ns1:synset_id>2550-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_2550-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>2550-N</ns1:id>
+    <ns1:title>РАБОТНИК</ns1:title>
+    <ns1:definition>тот, кто трудится, работящий человек</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_141994-N-140183">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>141994-N-140183</ns1:id>
+    <ns1:name>КЛЮЧЕВОЕ</ns1:name>
+    <ns1:lemma>КЛЮЧЕВОЕ</ns1:lemma>
+    <ns1:synset_id>141994-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_141994-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>141994-N</ns1:id>
+    <ns1:title>КЛЮЧЕВОЕ ЗВЕНО</ns1:title>
+    <ns1:definition>составная часть объекта или процесса, воздействие на которую позволяет управлять всем объектом или полным процессом.</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_130742-N-138705">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>130742-N-138705</ns1:id>
+    <ns1:name>ЗВЕНО</ns1:name>
+    <ns1:lemma>ЗВЕНО</ns1:lemma>
+    <ns1:synset_id>130742-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_141994-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>130742-N</ns1:id>
+    <ns1:title>ЗВЕНО</ns1:title>
+    <ns1:definition>самая мелкая организационная единица в каком-л. объединении.</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_148384-V-720102">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>148384-V-720102</ns1:id>
+    <ns1:name>ВНОСИТЬ ВКЛАД</ns1:name>
+    <ns1:lemma>ВНОСИТЬ ВКЛАД</ns1:lemma>
+    <ns1:synset_id>148384-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_148384-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>148384-V</ns1:id>
+    <ns1:title>ВНЕСТИ СВОЮ ЛЕПТУ</ns1:title>
+    <ns1:definition>что-либо ценное, вносимое кем-либо в науку, культуру, в общее дело</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106660-N-156220">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>106660-N-156220</ns1:id>
+    <ns1:name>УСПЕХ</ns1:name>
+    <ns1:lemma>УСПЕХ</ns1:lemma>
+    <ns1:synset_id>106660-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_106660-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106660-N</ns1:id>
+    <ns1:title>УДАЧА, УСПЕХ, СЧАСТЬЕ</ns1:title>
+    <ns1:definition>положительный результат, удачное завершение чего-л.</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_139690-V-702400">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>139690-V-702400</ns1:id>
+    <ns1:name>РАБОТАТЬ В ОФИСЕ</ns1:name>
+    <ns1:lemma>РАБОТАТЬ В ОФИС</ns1:lemma>
+    <ns1:synset_id>139690-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_139690-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>139690-V</ns1:id>
+    <ns1:title>ОФИСНАЯ РАБОТА</ns1:title>
+    <ns1:definition>заниматься каким-л. делом, применяя свой труд.</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_118818-V-155287">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>118818-V-155287</ns1:id>
+    <ns1:name>ТРЕБОВАТЬ</ns1:name>
+    <ns1:lemma>ТРЕБОВАТЬ</ns1:lemma>
+    <ns1:synset_id>118818-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_118818-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>118818-V</ns1:id>
+    <ns1:title>ТРЕБОВАТЬ (ОЖИДАТЬ ПРОЯВЛЕНИЯ СВОЙСТВ,ДЕЙСТВИЙ)</ns1:title>
+    <ns1:definition>нуждаться в чем-л., иметь потребность в чем-л.</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_117962-N-142770">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>117962-N-142770</ns1:id>
+    <ns1:name>НАВЫК</ns1:name>
+    <ns1:lemma>НАВЫК</ns1:lemma>
+    <ns1:synset_id>117962-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_117962-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>117962-N</ns1:id>
+    <ns1:title>НАВЫК</ns1:title>
+    <ns1:definition>умение, приобретенное упражнениями, созданное привычкой</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_154941-V-155988">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>154941-V-155988</ns1:id>
+    <ns1:name>УМЕНИЕ</ns1:name>
+    <ns1:lemma>УМЕНИЕ</ns1:lemma>
+    <ns1:synset_id>154941-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_154941-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>154941-V</ns1:id>
+    <ns1:title>УМЕНИЕ (СПОСОБНОСТЬ)</ns1:title>
+    <ns1:definition>способность делать что-л., приобретенная обучением, опытом.</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106493-N-153566">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>107669-N-153566</ns1:id>
+    <ns1:name>СОЗДАНИЕ</ns1:name>
+    <ns1:lemma>СОЗДАНИЕ</ns1:lemma>
+    <ns1:synset_id>107669-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_107669-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>107669-N</ns1:id>
+    <ns1:title>ПРОИЗВЕДЕНИЕ (ПРОДУКТ ТРУДА)</ns1:title>
+    <ns1:definition>создание, творение, плод творчества художника</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106682-V-159995">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>106682-V-159995</ns1:id>
+    <ns1:name>МЕНЯТЬ</ns1:name>
+    <ns1:lemma>МЕНЯТЬ</ns1:lemma>
+    <ns1:synset_id>106682-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_106682-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106682-V</ns1:id>
+    <ns1:title>ЗАМЕНИТЬ, НАЙТИ ЗАМЕНУ</ns1:title>
+    <ns1:definition>заменять одно другим.</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106798-A-159944">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>106798-A-159944</ns1:id>
+    <ns1:name>МИР</ns1:name>
+    <ns1:lemma>МИР</ns1:lemma>
+    <ns1:synset_id>106798-A</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_106798-A">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106798-A</ns1:id>
+    <ns1:title>ДЕЙСТВИТЕЛЬНОСТЬ, ОБЪЕКТИВНЫЙ МИР</ns1:title>
+    <ns1:definition>вещественный, реально существующий</ns1:definition>
+    <ns1:part_of_speech>Adj</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_873-N-110350">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>873-N-110350</ns1:id>
+    <ns1:name>РАБОЧЕЕ МЕСТО</ns1:name>
+    <ns1:lemma>РАБОЧИЙ МЕСТО</ns1:lemma>
+    <ns1:synset_id>873-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_873-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>873-N</ns1:id>
+    <ns1:title>РАБОЧЕЕ МЕСТО</ns1:title>
+    <ns1:definition>неделимое в организационном отношении (в данных конкретных условиях) звено производственного процесса, обслуживаемое одним или несколькими рабочими, предназначенное для выполнения одной или нескольких производственных или обслуживающих операций, оснащённое соответствующим оборудованием и технологической оснасткой.</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_153760-N-751441">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>153760-N-751441</ns1:id>
+    <ns1:name>СООБЩЕСТВО ЛЮДЕЙ</ns1:name>
+    <ns1:lemma>СООБЩЕСТВО ЧЕЛОВЕК</ns1:lemma>
+    <ns1:synset_id>153760-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_153760-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>153760-N</ns1:id>
+    <ns1:title>СООБЩЕСТВО (СОВОКУПНОСТЬ ЛЮДЕЙ)</ns1:title>
+    <ns1:definition>объединение, группа из некоторого числа людей, народов, государств, организаций, связанных общими интересами, целями</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_130993-N-182035">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>130993-N-182035</ns1:id>
+    <ns1:name>ЕДИНОМЫШЛЕННИК</ns1:name>
+    <ns1:lemma>ЕДИНОМЫШЛЕННИК</ns1:lemma>
+    <ns1:synset_id>130993-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_130993-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>130993-N</ns1:id>
+    <ns1:title>ЕДИНОМЫШЛЕННИК</ns1:title>
+    <ns1:definition>человек, имеющий одинаковые с кем-либо мысли, взгляды, убеждения</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_130815-V-181617">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>130815-V-181617</ns1:id>
+    <ns1:name>СТРЕМИТЬСЯ</ns1:name>
+    <ns1:lemma>СТРЕМИТЬСЯ</ns1:lemma>
+    <ns1:synset_id>130815-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_130815-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>130815-V</ns1:id>
+    <ns1:title>ДЕРЗАТЬ (СМЕЛО СТРЕМИТЬСЯ К ЧЕМУ-Н. НОВОМУ, БЛАГОРОДНОМУ)</ns1:title>
+    <ns1:definition>смелое стремление к чему-либо (обычно высокому, благородному, новому и т. п)</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_126307-A-153473">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>126307-A-153473</ns1:id>
+    <ns1:name>СОВЕРШЕНСТВО</ns1:name>
+    <ns1:lemma>СОВЕРШЕНСТВО</ns1:lemma>
+    <ns1:synset_id>126307-A</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_126307-A">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>126307-A</ns1:id>
+    <ns1:title>СОВЕРШЕНСТВО, БЕЗУПРЕЧНОСТЬ</ns1:title>
+    <ns1:definition>достигший совершенства, не имеющий недостатков, являющийся безупречным образцом, идеалом чего-либо</ns1:definition>
+    <ns1:part_of_speech>Adj</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_854-N-195903">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>854-N-195903</ns1:id>
+    <ns1:name>ИТ</ns1:name>
+    <ns1:lemma>ИТ</ns1:lemma>
+    <ns1:synset_id>854-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_854-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>854-N</ns1:id>
+    <ns1:title>ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ</ns1:title>
+    <ns1:definition>комплекс взаимосвязанных, научных, технологических, инженерных дисциплин, изучающих методы эффективной организации труда людей, занятых обработкой и хранением информации.</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_113338-A">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>113338-A</ns1:id>
+    <ns1:title>ДРУГ (ПРИЯТЕЛЬ)</ns1:title>
+    <ns1:definition>тот, с кем поддерживают близкие, приятельские отношения; друг, приятель, товарищ</ns1:definition>
+    <ns1:part_of_speech>Adj</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_113338-A-137324">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>113338-A-137324</ns1:id>
+    <ns1:name>ДРУГ</ns1:name>
+    <ns1:lemma>ДРУГ</ns1:lemma>
+    <ns1:synset_id>113338-A</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_106783-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106783-V</ns1:id>
+    <ns1:title>ВСТРЕЧА (СОБРАНИЕ)</ns1:title>
+    <ns1:definition>собрание, устраиваемое с целью знакомства, обсуждения чего-либо и т. п</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106783-V-135134">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>106783-V-135134</ns1:id>
+    <ns1:name>ВСТРЕЧА</ns1:name>
+    <ns1:lemma>ВСТРЕЧА</ns1:lemma>
+    <ns1:synset_id>106783-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_619-N-109515">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>619-N-109515</ns1:id>
+    <ns1:name>ПРАЗДНИК</ns1:name>
+    <ns1:lemma>ПРАЗДНИК</ns1:lemma>
+    <ns1:synset_id>619-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_619-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>619-N</ns1:id>
+    <ns1:title>ПРАЗДНИК</ns1:title>
+    <ns1:definition>официально отмечаемый торжественный день, связанный с годовщиной радостного события или церковной традицией</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_123467-V-147504">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>123467-V-147504</ns1:id>
+    <ns1:name>ДЕЛИТЬСЯ</ns1:name>
+    <ns1:lemma>ДЕЛИТЬСЯ</ns1:lemma>
+    <ns1:synset_id>123467-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_123467-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>123467-V</ns1:id>
+    <ns1:title>ДЕЛИТЬСЯ (РАССКАЗАТЬ)</ns1:title>
+    <ns1:definition>рассказывая, сообщая кому-либо о чём-либо, уделять кому-либо от своих знаний, сведений</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_110476-V-201031">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>110476-V-201031</ns1:id>
+    <ns1:name>ДЕЛИТЬСЯ РАДОСТЬЮ</ns1:name>
+    <ns1:lemma>ДЕЛИТЬСЯ РАДОСТЬ</ns1:lemma>
+    <ns1:synset_id>110476-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_110476-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>110476-V</ns1:id>
+    <ns1:title>РАДОВАТЬ</ns1:title>
+    <ns1:definition>доставить радость кому-либо, вызвать сильное положительное чувство в ком-либо</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_114090-N-153303">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>114090-N-153303</ns1:id>
+    <ns1:name>СМЕХ</ns1:name>
+    <ns1:lemma>СМЕХ</ns1:lemma>
+    <ns1:synset_id>114090-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_114090-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>114090-N</ns1:id>
+    <ns1:title>СМЕХ (ЗВУК)</ns1:title>
+    <ns1:definition>характерные прерывистые горловые звуки, вызываемые короткими выдыхательными движениями при проявлении веселья, радости, удовольствия и т. п.</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_125008-N-115192">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>125008-N-115192</ns1:id>
+    <ns1:name>ИСТОРИЯ</ns1:name>
+    <ns1:lemma>ИСТОРИЯ</ns1:lemma>
+    <ns1:synset_id>125008-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_125008-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>125008-N</ns1:id>
+    <ns1:title>ИСТОРИЯ (ХОД РАЗВИТИЯ, ДВИЖЕНИЯ)</ns1:title>
+    <ns1:definition>наука, изучающая факты, тенденции и закономерности развития общества</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://example.org#sense_125008-N-115192">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>125009-N-115192</ns1:id>
+    <ns1:name>ИСТОРИЯ</ns1:name>
+    <ns1:lemma>ИСТОРИЯ</ns1:lemma>
+    <ns1:synset_id>125009-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_125008-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>125009-N</ns1:id>
+    <ns1:title>ИСТОРИЯ</ns1:title>
+    <ns1:definition>рассказ, повествование.</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_115153-V-195951">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>115153-V-195951</ns1:id>
+    <ns1:name>ПРОВОДИТЬ ВРЕМЯ</ns1:name>
+    <ns1:lemma>ПРОВОДИТЬ ВРЕМЯ</ns1:lemma>
+    <ns1:synset_id>115153-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_115153-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>115153-V</ns1:id>
+    <ns1:title>ПРОБЫТЬ, ПРОВЕСТИ ВРЕМЯ</ns1:title>
+    <ns1:definition>заняться чем-либо в течении некоторого времени.</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_72-N-690951">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>72-N-690951</ns1:id>
+    <ns1:name>ОКРУЖАЮЩАЯ ПРИРОДНАЯ СРЕДА (ПРИРОДА)</ns1:name>
+    <ns1:lemma>ОКРУЖАЮЩИЙ ПРИРОДНЫЙ СРЕДА (ПРИРОДА)</ns1:lemma>
+    <ns1:synset_id>72-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_72-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>72-N</ns1:id>
+    <ns1:title>ПРИРОДА</ns1:title>
+    <ns1:definition>соотносящийся по значению с существительным природа, связанный с ним</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_109109-V-136304">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>109109-V-136304</ns1:id>
+    <ns1:name>ГОТОВИТЬ</ns1:name>
+    <ns1:lemma>ГОТОВИТЬ</ns1:lemma>
+    <ns1:synset_id>109109-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_109109-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>109109-V</ns1:id>
+    <ns1:title>ПРИГОТОВЛЕНИЕ ПИЩИ</ns1:title>
+    <ns1:definition>готовить пищу</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_109109-V-721382">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>109109-V-721382</ns1:id>
+    <ns1:name>ПРИГОТОВИТЬ БЛЮДО</ns1:name>
+    <ns1:lemma>ПРИГОТОВИТЬ БЛЮДО</ns1:lemma>
+    <ns1:synset_id>109109-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_130186-V-745469">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>130186-V-745469</ns1:id>
+    <ns1:name>УСТРАИВАТЬ ВСТРЕЧУ</ns1:name>
+    <ns1:lemma>УСТРАИВАТЬ ВСТРЕЧА</ns1:lemma>
+    <ns1:synset_id>130186-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_130186-V-158500">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>130186-V-158500</ns1:id>
+    <ns1:name>УСТРАИВАТЬ</ns1:name>
+    <ns1:lemma>УСТРАИВАТЬ</ns1:lemma>
+    <ns1:synset_id>130186-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_120390-N-161789">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>120390-N-161789</ns1:id>
+    <ns1:name>ПИКНИК</ns1:name>
+    <ns1:lemma>ПИКНИК</ns1:lemma>
+    <ns1:synset_id>120390-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_120390-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>120390-N</ns1:id>
+    <ns1:title>ПИКНИК</ns1:title>
+    <ns1:definition>загородная увеселительная прогулка компанией (с закуской на воздухе)</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_149857-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>149857-N</ns1:id>
+    <ns1:title>ВЫБОР, АССОРТИМЕНТ ДЛЯ ВЫБОРА</ns1:title>
+    <ns1:definition>возможность выбирать; наличие нескольких вариантов для выбора</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_149857-N-102095">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>149857-N-102095</ns1:id>
+    <ns1:name>ВЫБИРАТЬ</ns1:name>
+    <ns1:lemma>ВЫБИРАТЬ</ns1:lemma>
+    <ns1:synset_id>149857-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106652-N-141763">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>106652-N-141763</ns1:id>
+    <ns1:name>ЛЮБОВЬ</ns1:name>
+    <ns1:lemma>ЛЮБОВЬ</ns1:lemma>
+    <ns1:synset_id>106652-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_106652-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106652-N</ns1:id>
+    <ns1:title>ЛЮБОВЬ, СЕРДЕЧНОЕ ВЛЕЧЕНИЕ</ns1:title>
+    <ns1:definition>высокая степень положительного чувства по отношению к кому-либо, чему-либо</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_111667-N-149415">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>111667-N-149415</ns1:id>
+    <ns1:name>ПРИСОЕДИНЕНИЕ</ns1:name>
+    <ns1:lemma>ПРИСОЕДИНЕНИЕ</ns1:lemma>
+    <ns1:synset_id>111667-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_111667-N-149415">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>111668-N-149415</ns1:id>
+    <ns1:name>СТАТЬ ЧАСТЬЮ</ns1:name>
+    <ns1:lemma>СТАТЬ ЧАСТЬ</ns1:lemma>
+    <ns1:synset_id>111667-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_111667-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>111667-N</ns1:id>
+    <ns1:title>ПРИСОЕДИНИТЬСЯ</ns1:title>
+    <ns1:definition>соединиться, образовать единое целое с чем-либо</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_118939-A-144416">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>118939-A-144416</ns1:id>
+    <ns1:name>ОБЩИЙ</ns1:name>
+    <ns1:lemma>ОБЩИЙ</ns1:lemma>
+    <ns1:synset_id>118939-A</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_118939-A">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>118939-A</ns1:id>
+    <ns1:title>ОБЩИЙ</ns1:title>
+    <ns1:definition>производимый или используемый совместно</ns1:definition>
+    <ns1:part_of_speech>Adj</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_146834-N-154318">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>146834-N-154318</ns1:id>
+    <ns1:name>СТОЛ</ns1:name>
+    <ns1:lemma>СТОЛ</ns1:lemma>
+    <ns1:synset_id>146834-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_146834-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>146834-N</ns1:id>
+    <ns1:title>СТОЛ ДЛЯ ЕДЫ</ns1:title>
+    <ns1:definition>стол для принятия пищи</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_354-N-113913">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>354-N-113913</ns1:id>
+    <ns1:name>ФРУКТ</ns1:name>
+    <ns1:lemma>ФРУКТ</ns1:lemma>
+    <ns1:synset_id>354-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_354-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>354-N</ns1:id>
+    <ns1:title>ФРУКТ</ns1:title>
+    <ns1:definition>сочный и сладкий съедобный плод растения</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_3921-N-112428">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>3921-N-112428</ns1:id>
+    <ns1:name>СЫР</ns1:name>
+    <ns1:lemma>СЫР</ns1:lemma>
+    <ns1:synset_id>3921-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_3921-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>3921-N</ns1:id>
+    <ns1:title>СЫР</ns1:title>
+    <ns1:definition>пищевой продукт, изготовляемый из свернувшегося молока</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106446-N-100610">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>139164-N-100610</ns1:id>
+    <ns1:name>АТМОСФЕРА</ns1:name>
+    <ns1:lemma>АТМОСФЕРА</ns1:lemma>
+    <ns1:synset_id>139164-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_139164-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>139164-N</ns1:id>
+    <ns1:title>АТМОСФЕРА (ЕДИНИЦА ИЗМЕРЕНИЯ)</ns1:title>
+    <ns1:definition>внесистемная единица измерения давления, численно равная одной килограмм-силе на квадратный сантиметр, что примерно соответствует нормальному атмосферному давлению</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106446-N-100610">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>139165-N-100610</ns1:id>
+    <ns1:name>АТМОСФЕРА</ns1:name>
+    <ns1:lemma>АТМОСФЕРА</ns1:lemma>
+    <ns1:synset_id>139165-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_139164-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>139164-N</ns1:id>
+    <ns1:title>АТМОСФЕРА</ns1:title>
+    <ns1:definition>окружающие условия, обстановка.</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106655-N-137323">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>106655-N-137323</ns1:id>
+    <ns1:name>ДРУЖБА</ns1:name>
+    <ns1:lemma>ДРУЖБА</ns1:lemma>
+    <ns1:synset_id>106655-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_106655-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106655-N</ns1:id>
+    <ns1:title>ДРУЖБА</ns1:title>
+    <ns1:definition>близкие приязненные отношения, подразумевающие душевную привязанность, взаимную поддержку, доверие, общность деятельности и интересов</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106635-V-162233">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>106635-V-162233</ns1:id>
+    <ns1:name>КРЕПЧАТЬ</ns1:name>
+    <ns1:lemma>КРЕПЧАТЬ</ns1:lemma>
+    <ns1:synset_id>106635-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_106635-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106635-V</ns1:id>
+    <ns1:title>УСИЛИТЬСЯ (УВЕЛИЧИТЬСЯ В СИЛЕ)</ns1:title>
+    <ns1:definition>становиться более крепким, проявляться с возрастающей силой</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_137322-N-134931">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>137322-N-134931</ns1:id>
+    <ns1:name>ВОСПОМИНАНИЕ</ns1:name>
+    <ns1:lemma>ВОСПОМИНАНИЕ</ns1:lemma>
+    <ns1:synset_id>137322-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_137322-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>137322-N</ns1:id>
+    <ns1:title>ВОСПОМИНАНИЯ</ns1:title>
+    <ns1:definition>записки или рассказы о прошлом.</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_139629-A-158262">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>139629-A-158262</ns1:id>
+    <ns1:name>ЯРКИЙ</ns1:name>
+    <ns1:lemma>ЯРКИЙ</ns1:lemma>
+    <ns1:synset_id>139629-A</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_139629-A">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>139629-A</ns1:id>
+    <ns1:title>ЯРКИЙ</ns1:title>
+    <ns1:definition>выразительный</ns1:definition>
+    <ns1:part_of_speech>Adj</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_116231-V-714173">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>116231-V-714173</ns1:id>
+    <ns1:name>ВРЕМЯ ПРОШЛО</ns1:name>
+    <ns1:lemma>ВРЕМЯ ПРОЙТИ</ns1:lemma>
+    <ns1:synset_id>116231-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_116231-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>116231-V</ns1:id>
+    <ns1:title>БЕГ ВРЕМЕНИ</ns1:title>
+    <ns1:definition>время, не совпадающее с моментом речи, такое, которое уже прошло и отдалено от того, что происходит сейчас.</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_138258-V-138170">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>138258-V-138170</ns1:id>
+    <ns1:name>ЗАПОМНИТЬ</ns1:name>
+    <ns1:lemma>ЗАПОМНИТЬ</ns1:lemma>
+    <ns1:synset_id>138258-V</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_138258-V">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>138258-V</ns1:id>
+    <ns1:title>ЗАМЕТИТЬ (ЗАПОМНИТЬ ПО КАКИМ-ЛИБО ПРИЗНАКАМ)</ns1:title>
+    <ns1:definition>мысленно останавливаться на чём-либо, запоминать, брать на заметку</ns1:definition>
+    <ns1:part_of_speech>V</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_119548-N-722014">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>119548-N-722014</ns1:id>
+    <ns1:name>ЛУЧШИЙ</ns1:name>
+    <ns1:lemma>ЛУЧШИЙ</ns1:lemma>
+    <ns1:synset_id>119548-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_119548-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>119548-N</ns1:id>
+    <ns1:title>ЛУЧШИЙ, НАИЛУЧШЕГО КАЧЕСТВА</ns1:title>
+    <ns1:definition>самый лучший, самый предпочтительный, представляющий преимущества сравнительно с другими</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_106740-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106740-N</ns1:id>
+    <ns1:title>КОРОТКИЙ ПРОМЕЖУТОК ВРЕМЕНИ</ns1:title>
+    <ns1:definition>очень короткий промежуток времени; мгновение, момент</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#sense_106740-N-142207">
+    <rdf:type rdf:resource="http://example.org#sense"/>
+    <ns1:id>106740-N-142207</ns1:id>
+    <ns1:name>МОМЕНТ</ns1:name>
+    <ns1:lemma>МОМЕНТ</ns1:lemma>
+    <ns1:synset_id>106740-N</ns1:synset_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org#synset_106740-N">
+    <rdf:type rdf:resource="http://example.org#synset"/>
+    <ns1:id>106740-N</ns1:id>
+    <ns1:title>КОРОТКИЙ ПРОМЕЖУТОК ВРЕМЕНИ</ns1:title>
+    <ns1:definition>очень короткий промежуток времени; мгновение, момент</ns1:definition>
+    <ns1:part_of_speech>N</ns1:part_of_speech>
+  </rdf:Description>
 </rdf:RDF>
