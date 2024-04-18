@@ -14,8 +14,8 @@
   <rdf:Description rdf:about="http://example.org#sense_156104-N-769851">
     <rdf:type rdf:resource="http://example.org#sense"/>
     <ns1:id>156104-N-769851</ns1:id>
-    <ns1:name>ИТ-КОМПАНИЯ</ns1:name>
-    <ns1:lemma>ИТ-КОМПАНИЯ</ns1:lemma>
+    <ns1:name>КОМПАНИЯ</ns1:name>
+    <ns1:lemma>КОМПАНИЯ</ns1:lemma>
     <ns1:synset_id>156104-N</ns1:synset_id>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org#synset_156104-N">
